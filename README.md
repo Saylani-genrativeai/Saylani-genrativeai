@@ -2,9 +2,7 @@
   <div align="center">
     <h1> Hi there, This is Saylani Genrative AI & Chatbot Development Profile👋<a href="https://www.youtube.com/watch?v=5zloFgmG3UE&list=PLKDx0iHXzgE1wurwt_Yvqpj1sa1_P1D9w"></h1>
   </div>
-<p align="center">
-<a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
-	
+
 <h2>Tech Stack</h2>
 
 <table width="100">
@@ -23,7 +21,7 @@
         <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://www.linkpicture.com/q/0f04f0b2-a39a-4621-8bb5-1f5f7bf9bf10_mq.jpg">
     </td>
  
 </tr>
@@ -33,7 +31,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80">
+        <img src="https://www.linkpicture.com/q/0837a5a-pinecone_logo_black.png" width="80">
     </td>
  <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
