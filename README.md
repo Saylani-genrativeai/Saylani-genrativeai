@@ -39,6 +39,9 @@
      <td align='center'>
         <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
     </td>
+       <td align='center'>
+        <img src="https://www.linkpicture.com/q/1681038628chatgpt-icon-logo.png">
+    </td>
 </tr>
  
 
